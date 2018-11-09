@@ -1,5 +1,1 @@
-{
-  "name": "my-ember-app",
-  "dependencies": {
-  }
-}
+{"name":"my-ember-app","dependencies":{},"devDependencies":{"bootstrap":"^4.1.3"}}
